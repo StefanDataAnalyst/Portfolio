@@ -16,3 +16,17 @@ This case study investigates what separates the ATP Top 10 players from lower-ra
 - **Kaggle ATP Dataset**: 180K+ matches from 1968–2022, filtered to Grand Slams post-2000.
 
 📁 [Download the full case study (PDF)](Tennis_Case_Study_Cracking_The_Code.pdf)
+
+### 📊 Key Visualizations
+
+**1st Serve Win Percentage**
+![1st Serve Win %](1st%20serve%20win%20%25.png)
+
+**2nd Serve Win Percentage**
+![2nd Serve Win %](2nd%20serve%20win%20%25.png)
+
+**Ace to Double Fault Ratio**
+![Aces to df ratio](Aces%20to%20df%20ratio.png)
+
+**Average Aces**
+![Avg aces](Avg%20aces.png)
