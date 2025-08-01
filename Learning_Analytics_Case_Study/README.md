@@ -14,7 +14,7 @@ This case study was developed while working on educational innovation in Dutch v
 | File | Description |
 |------|-------------|
 | [Q-Sense_van learning design naar learning analytics_methodiek en verantwoording_2021.pdf](./Q-Sense_van%20learning%20design%20naar%20learning%20analytics_methodiek%20en%20verantwoording_2021.pdf) | Guidebook paper on aligning learning design with analytics |
-| [Q-Sense_learning analytics recepten_methodiek en verantwoording_2021.pdf](./Q-Sense_learning%20analytics%20recepten_methodiek%20en%20verantwoording_2021.pdf) | Methodology paper on how to get to early warning indicators and dashboards |
+| [Q-Sense_learning analytics recepten_methodiek en verantwoording_2021.pdf](./Q-Sense_learning%20analytics%20recepten_methodiek%20en%20verantwoording_2021.pdf)| Methodology paper on how to get to early warning indicators and dashboards |
 
 All content is in **Dutch** 🇳🇱, as it was created for national implementation.
 
