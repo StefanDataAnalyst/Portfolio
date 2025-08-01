@@ -4,7 +4,7 @@ Welcome! I'm Stefan Voeten, a data analyst transitioning from education into tec
 
 ## 📊 Featured Case Studies
 
-### 🎾 [Tennis Case Study: Cracking the Code of Champions: What the Data Reveals About Top 10 Tennis Players](Tennis_Case_Study/README.md)
+### 🎾 [Tennis Case Study: Cracking the Code of Champions](Tennis_Case_Study/README.md)
 How do Top 10 ATP players differ from the rest? I analyzed serve metrics from 22 years of Grand Slam data to find out what seperates top 10 players from the rest. 
 
 _More projects coming soon..._
