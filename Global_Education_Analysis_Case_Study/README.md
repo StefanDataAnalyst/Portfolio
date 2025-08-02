@@ -1,4 +1,4 @@
-# 🌍 Global Education Analysis: Secondary School Age by Region (2015)
+# 🌍 Global Education Analysis: Secondary School Age by Region (2015) - Case Study
 
 This mini case study uses SQL to explore how many people were of official secondary school age in each global region, using World Bank data from 2015.
 
