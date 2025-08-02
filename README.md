@@ -10,5 +10,8 @@ How do Top 10 ATP players differ from the rest? I analyzed serve metrics from 22
 ### 🎓 [Learning Analytics in Dutch Education](./Learning_Analytics_Case_Study/README.md)
 My contribution to a national education project, using dashboards and analytics to spot students at risk and improve course design.
 
+### ⚙️ [macOS System Optimization & Troubleshooting](MacOS_System_Optimization/README.md)
+How I solved recurring macOS performance issues by applying structured troubleshooting and optimization techniques.
+
 *(More projects coming soon...)*
 
