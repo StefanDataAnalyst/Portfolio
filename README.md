@@ -10,6 +10,9 @@ How do Top 10 ATP players differ from the rest? I analyzed serve metrics from 22
 ### 🎓 [Learning Analytics in Dutch Education](./Learning_Analytics_Case_Study/README.md)
 My contribution to a national education project, using dashboards and analytics to spot students at risk and improve course design.
 
+### 🐻 [Best Baseball Mascots: SQL Case Study](./best-baseball-mascots-case-study/README.md)  
+A data analysis project using SQL to investigate whether having a mascot impacts baseball team success. Includes data cleaning, joins, aggregations, and ranking logic in BigQuery.
+
 ### ⚙️ [macOS System Optimization & Troubleshooting](MacOS_System_Optimization/README.md)
 How I solved recurring macOS performance issues by applying structured troubleshooting and optimization techniques.
 
