@@ -22,4 +22,3 @@ In 2015, how many people around the world were of official age for secondary edu
 
 ## 📄 View Full Case Study
 👉 [📥 View Full PDF](./Global%20Education%20Analysis%20Secondary%20School%20Age%20by%20Region.pdf)
-Global Education Analysis Secondary School Age by Region.pdf
