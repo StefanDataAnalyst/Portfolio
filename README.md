@@ -16,8 +16,10 @@ Analyzed global data to find how many people were of secondary school age per re
 ### 🐻 [Best Baseball Mascots: SQL Case Study](./best-baseball-mascots-case-study/README.md)  
 A data analysis project using SQL to investigate whether having a mascot impacts baseball team success. Includes data cleaning, joins, aggregations, and ranking logic in BigQuery.
 
+### 📊 [Movie Profits by Genre and Director (Excel) Case Study](./Excel_Movie_Profits_Analysis_Case_Study/README.md)
+Exploring which movie genres and directors made the most profit using Excel pivot tables. 
+
 ### ⚙️ [macOS System Optimization & Troubleshooting](MacOS_System_Optimization/README.md)
 How I solved recurring macOS performance issues by applying structured troubleshooting and optimization techniques.
 
-*(More projects coming soon...)*
 
