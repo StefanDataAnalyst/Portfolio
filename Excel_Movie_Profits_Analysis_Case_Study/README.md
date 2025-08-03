@@ -10,7 +10,7 @@ This Excel-based project explores movie profits across different genres and dire
 ## 📊 Key Takeaways
 - **Adventure**, **Family**, **Sci-Fi** and **Animation** were the most profitable genres on average.
 - **Religious**, **Crime**, and **Biography** films had the lowest average profits
-- **Peter Jackson**, **Bill Condone**, and **Tim Miller** had the highest average profit per movie — likely linked to their directing blockbuster franchises.
+- **Peter Jackson**, **Bill Condon**, and **Tim Miller** had the highest average profit per movie — likely linked to their directing blockbuster franchises.
 
 
 ## 📁 Files Included
