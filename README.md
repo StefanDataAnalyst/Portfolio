@@ -1,6 +1,6 @@
 # 📁 Stefan's Data Analytics Portfolio
 
-Welcome! I'm Stefan Voeten, a data analyst transitioning from education into tech. I use SQL, Excel, Python, and visualization tools to explore complex datasets and deliver actionable insights.
+Welcome! I'm Stefan, a data analyst transitioning from education into tech. I use SQL, Excel, Python, and visualization tools to explore complex datasets and deliver actionable insights.
 
 ## 📊 Featured Case Studies
 
