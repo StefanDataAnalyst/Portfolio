@@ -14,5 +14,6 @@ Welcome! I'm Stefan, a data analyst. This is a collection of case studies I buil
 ---
 
 📫 [LinkedIn](https://www.linkedin.com/in/stefan-voeten-a32268b2/) 
+
 📂 [GitHub Portfolio Repository](https://github.com/StefanDataAnalyst/Portfolio)
  
