@@ -23,4 +23,4 @@ Exploring which movie genres and directors made the most profit using Excel pivo
 How I solved recurring macOS performance issues by applying structured troubleshooting and optimization techniques.
 
 
-📫 [LinkedIn]([https://www.linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/stefan-voeten-a32268b2/))  
+📫 [LinkedIn](https://www.linkedin.com/in/stefan-voeten-a32268b2/)  
