@@ -4,15 +4,15 @@ Welcome! This is a collection of case studies I built as part of my (transition 
 
 ## 📂 Projects
 
-- [🎾 Tennis Performance Analysis](../Tennis_SQL_Case_Study/README.md)
-- [🎓 Learning Analytics in Dutch Education](../Learning_Analytics_Case_Study/README.md)
-- [🐻 Baseball Mascots & Performance](../Baseball_Mascots_Case_Study/README.md)
-- [🌍 Global Education (World Bank)](../Global_Education_Case_Study/README.md)
-- [🎬 Movie Profits (Excel Analysis)](../Movie_Profits_Excel_Case_Study/README.md)
-- [🛠️ System Optimization on macOS](../System_Optimization_MacOS/README.md)
+[🎾 Tennis Case Study: Cracking the Code of Champions](Tennis_SQL_Case_Study/README.md)
+[📚 Learning Analytics in Dutch Education](Learning_Analytics_Case_Study/README.md)
+[🌍 Global Education Analysis: Secondary School Age by Region - Case Study](Global_Education_Analysis_Case_Study/README.md)
+[🧢 Best Baseball Mascots: SQL Case Study](best-baseball-mascots-case-study/README.md)
+[🎬 Movie Profits by Genre and Director (Excel) Case Study](Excel_Movie_Profits_Analysis_Case_Study/README.md)
+[🛠️ macOS System Optimization & Troubleshooting](MacOS_System_Optimization/README.md)
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)  
+📫 [LinkedIn]((https://www.linkedin.com/in/stefan-voeten-a32268b2/))  
 📂 [GitHub Portfolio Repository](https://github.com/StefanDataAnalyst/Portfolio)
  
