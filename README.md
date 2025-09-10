@@ -2,6 +2,12 @@
 
 Welcome! I'm Stefan, a data analyst transitioning from education into tech. I use SQL, Excel, Python, and visualization tools to explore complex datasets and deliver actionable insights.
 
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/stefan-voeten-a32268b2/)  
+
+---
+
 ## 📊 Featured Case Studies
 
 ### 🎾 [Tennis Case Study: Cracking the Code of Champions](Tennis_Case_Study/README.md)
@@ -22,6 +28,4 @@ Exploring which movie genres and directors made the most profit using Excel pivo
 ### ⚙️ [macOS System Optimization & Troubleshooting](MacOS_System_Optimization/README.md)
 How I solved recurring macOS performance issues by applying structured troubleshooting and optimization techniques.
 
----
 
-📫 [LinkedIn](https://www.linkedin.com/in/stefan-voeten-a32268b2/)  
