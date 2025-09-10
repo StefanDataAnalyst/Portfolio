@@ -1,6 +1,6 @@
 # 🎓 Stefan’s Data Portfolio
 
-Welcome! This is a collection of real-world case studies I built as part of my transition into data analytics.
+Welcome! This is a collection of case studies I built as part of my (transition into) data analytics.
 
 ## 📂 Projects
 
@@ -15,3 +15,4 @@ Welcome! This is a collection of real-world case studies I built as part of my t
 
 📫 [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)  
 📂 [GitHub Portfolio Repository](https://github.com/StefanDataAnalyst/Portfolio)
+ 
