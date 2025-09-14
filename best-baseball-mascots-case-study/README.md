@@ -23,7 +23,7 @@ Using a custom-built dataset and SQL in Google BigQuery, I cleaned, joined, and 
 - However, statistical significance wasn’t tested (small sample size).
 - The presence of a mascot may correlate with higher audience engagement — a direction worth exploring further.
 
-## 📄 View the Case Study
+## 📄 View the Full Case Study
 👉 [Best baseball mascots (PDF)](Best%20baseball%20mascots.pdf)
 
 ---
