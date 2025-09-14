@@ -4,7 +4,10 @@ Welcome! I'm Stefan, a data analyst transitioning from education into tech. I us
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/stefan-voeten-a32268b2/)  
+## 🔗 Links
+
+- 🌐 [Portfolio Website](https://stefandataanalyst.github.io/Portfolio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/stefan-voeten-a32268b2/)
 
 ---
 
