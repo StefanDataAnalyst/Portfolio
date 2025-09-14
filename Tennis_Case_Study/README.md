@@ -15,6 +15,7 @@ This case study investigates what separates the ATP Top 10 players from lower-ra
 - **Excel**: Visualizations, pivot tables, formatting.
 - **Kaggle ATP Dataset**: 180K+ matches from 1968–2022, filtered to Grand Slams post-2000.
 
+## 📄 View Full Case Study 
 📁 [Download the full case study (PDF)](Tennis_Case_Study_Cracking_The_Code.pdf)
 
 ### 📊 Key Visualizations
