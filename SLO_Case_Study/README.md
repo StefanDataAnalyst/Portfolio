@@ -38,3 +38,7 @@ This project taught me how to translate broad requirements into **measurable cri
 
 It also strengthened my experience in working between **subject-matter experts, data and decision-makers**: defining what should be measured, checking the quality of the underlying evidence, and turning the results into information that can support decisions.
 
+## 📎 Detailed Case Study
+
+For a more detailed description of the approach, methodology and results, see the
+[full case study (Dutch, PDF)](./SLO_Case_Study_Detailed_NL.pdf).
