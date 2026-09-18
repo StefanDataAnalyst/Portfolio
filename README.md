@@ -1,6 +1,12 @@
 # 📁 Stefan's Data Analytics Portfolio
 
-Welcome! I'm Stefan, a data professional: information/business analist, data consultant, data analist. I use SQL, Excel, Python, and visualization tools to explore complex datasets and deliver actionable insights.
+Welcome! I'm Stefan. I'm an **Information Analyst** working at the intersection of **data, reporting, processes and decision-making**.
+
+With ten years of experience across education, government and the non-profit sector, I analyze complex processes and datasets, uncover where complexity comes from, and help design simpler, more useful solutions.
+
+I work both in the data and in the conversations around it, bridging the gap between subject-matter experts, management and IT.
+
+My toolkit includes **SQL, Excel and data visualization tools**.
 
 ---
 
