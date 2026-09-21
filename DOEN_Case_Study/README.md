@@ -35,5 +35,5 @@ This project strengthened my experience in combining **process analysis, data mo
 
 ## 📎 Detailed Case Study
 
-For a more detailed description of the analysis, model design and implementation choices, see the
+For a more detailed description of the process analysis, model design and implementation choices, see the
 [full case study (Dutch, PDF)](./DOEN_Case_Study_Detailed_NL.pdf).
