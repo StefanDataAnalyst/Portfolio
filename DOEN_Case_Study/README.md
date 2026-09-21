@@ -30,7 +30,7 @@ The challenge was not simply to automate Excel, but to understand the process fi
 - Created handover documentation so the organisation could maintain and further develop the model.
 
 ### After
-![Redesigned reporting process](./doen_nieuwe_procesflow.png)
+![Redesigned reporting process](./Doen_nieuwe_procesflow.png)
 *Figure 2 (Dutch). Simplified reporting structure after the redesign.*
 
 ## 🔍 Why This Matters
