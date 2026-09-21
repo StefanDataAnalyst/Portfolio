@@ -17,6 +17,7 @@ The challenge was not simply to automate Excel, but to understand the process fi
 
 ### Before
 ![Original reporting process](./doen_huidige_procesflow.png)
+
 *Figure 1 (Dutch). Overview of the reporting process before the redesign. Organisation and entity names have been anonymised.*
 
 ## 📈 Results
@@ -31,6 +32,7 @@ The challenge was not simply to automate Excel, but to understand the process fi
 
 ### After
 ![Redesigned reporting process](./Doen_nieuwe_procesflow.png)
+
 *Figure 2 (Dutch). Simplified reporting structure after the redesign.*
 
 ## 🔍 Why This Matters
