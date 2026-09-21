@@ -19,6 +19,9 @@ My toolkit includes **SQL, Excel and data visualization tools**.
 
 ## 📊 Featured Case Studies
 
+### 📊 [Financial Reporting Process Improvement](./Financial_Reporting_Case_Study/README.md)
+Redesigned a complex annual reporting process by mapping dependencies, simplifying calculations and building a more traceable and maintainable reporting model.
+
 ### 📋 [Curriculum Monitoring & Data Quality](./SLO_Case_Study/README.md)
 Translated broad policy requirements into measurable criteria and evidence-based monitoring across nine curriculum areas at SLO, connecting data quality, analysis and decision-making.
 
