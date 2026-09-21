@@ -18,7 +18,7 @@ The challenge was not simply to automate Excel, but to understand the process fi
 ### Before
 ![Original reporting process](./doen_huidige_procesflow.png)
 
-*Figure 1 (Dutch). Overview of the reporting process before the redesign. Organisation and entity names have been anonymised.*
+*Figure 1 (Dutch). Overview of (only the cost part of) the reporting process before the redesign. Organisation and entity names have been anonymised.*
 
 ## 📈 Results
 
