@@ -4,7 +4,7 @@ Welcome! I'm Stefan, a data analyst. This is a collection of case studies I buil
 
 ## 📂 Projects
 
-- [📊 [Financial Reporting Process Improvement](./DOEN_Case_Study/README.md)
+- [📊 Financial Reporting Process Improvement](./DOEN_Case_Study/README.md)
 - [📋 Curriculum Monitoring & Data Quality](./SLO_Case_Study/README.md)
 - [🎾 Tennis Case Study: Cracking the Code of Champions](Tennis_Case_Study/README.md)
 - [🎓 Learning Analytics in Dutch Education](Learning_Analytics_Case_Study/README.md)
