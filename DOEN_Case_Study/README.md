@@ -15,11 +15,6 @@ The challenge was not simply to automate Excel, but to understand the process fi
 - Documented design decisions, open questions and deliberate differences between the old and new approach.
 - Prepared documentation to support handover and future maintenance.
 
-### Before
-![Original reporting process](./doen_huidige_procesflow.png)
-
-*Figure 1 (Dutch). Overview of (only the cost part of) the reporting process before the redesign. Organisation and entity names have been anonymised.*
-
 ## 📈 Results
 
 - Replaced multiple interdependent legacy files with a **single reporting model fed from the source system**.
@@ -29,6 +24,11 @@ The challenge was not simply to automate Excel, but to understand the process fi
 - Tested the reporting approach against **Dutch Accounting Guideline 650**, the relevant reporting guideline for fundraising and grant-making organisations.
 - Added internal controls and cross-checks within the reporting model.
 - Created handover documentation so the organisation could maintain and further develop the model.
+
+### Before
+![Original reporting process](./doen_huidige_procesflow.png)
+
+*Figure 1 (Dutch). Overview of (only the cost part of) the reporting process before the redesign. Organisation and entity names have been anonymised.*
 
 ### After
 ![Redesigned reporting process](./Doen_nieuwe_procesflow.png)
