@@ -19,7 +19,7 @@ My toolkit includes **SQL, Excel and data visualization tools**.
 
 ## 📊 Featured Case Studies
 
-### 📊 [Financial Reporting Process Improvement](./Financial_Reporting_Case_Study/README.md)
+### 📊 [Financial Reporting Process Improvement](./DOEN_Case_Study/README.md)
 Redesigned a complex annual reporting process by mapping dependencies, simplifying calculations and building a more traceable and maintainable reporting model.
 
 ### 📋 [Curriculum Monitoring & Data Quality](./SLO_Case_Study/README.md)
