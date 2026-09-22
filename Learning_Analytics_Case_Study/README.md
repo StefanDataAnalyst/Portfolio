@@ -24,7 +24,13 @@ This case study was developed while working on educational innovation in Dutch v
 - Dashboards designed around the **decisions teachers need to make**, rather than around the structure of the database.
 - Two publications documenting the methodology and its implementation.
 
-## 📎 Files in this Repository
+## 🔍 Why This Matters
+
+A dashboard can be technically correct and still be useless. The important question is not only **“What data do we have?”**, but **“What decision should this data help someone make?”**
+
+This project taught me to start with the problem and the user, translate that into measurable concepts, and work with technical teams to turn those concepts into useful analytical outputs.
+
+## 📎 Publications 
 
 | File | Description |
 |---|---|
@@ -33,8 +39,25 @@ This case study was developed while working on educational innovation in Dutch v
 
 Both publications are in **Dutch** 🇳🇱, as it was created for national implementation.
 
-## 🔍 Why This Matters
+## 📊 Examples from the publications: From Data to Action
 
-A dashboard can be technically correct and still be useless. The important question is not only **“What data do we have?”**, but **“What decision should this data help someone make?”**
+### Figure 1 — The Learning Analytics Recipe
 
-This project taught me to start with the problem and the user, translate that into measurable concepts, and work with technical teams to turn those concepts into useful analytical outputs.
+![Learning analytics recipe](./learning-analytics-recipe.png)
+
+*Figure 1. Example of how data points are combined into indicators and ultimately into a learning analytics signal. Source: Q-Sense, 2021.*
+
+
+### Figure 2 — Visualising Early-Warning Signals
+
+![Early-warning dashboard](./early-warning-list-dashboard.png)
+
+*Figure 2. Example of how student risk signals can be visualised for teachers. Source: Q-Sense, 2021.*
+
+### Figure 3 — Visualising Detailed Early-Warning Signals
+
+![Early-warning dashboard](./early-warning-balance-dashboard.png)
+
+*Figure 3. Example of how student risk signals can be visualised in detail for teachers. Source: Q-Sense, 2021.*
+
+
