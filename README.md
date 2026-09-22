@@ -25,11 +25,11 @@ Redesigned a complex annual reporting process by mapping dependencies, simplifyi
 ### 📋 [Curriculum Monitoring & Data Quality](./SLO_Case_Study/README.md)
 Translated broad policy requirements into measurable criteria and evidence-based monitoring across nine curriculum areas at SLO, connecting data quality, analysis and decision-making.
 
-### 🎾 [Tennis Case Study: Cracking the Code of Champions](Tennis_Case_Study/README.md)
-Analyzed serve metrics from 22 years of Grand Slam data to find out what separates top 10 players from the rest. 
-
 ### 🎓 [Learning Analytics in Dutch Education](./Learning_Analytics_Case_Study/README.md)
 My contribution to a national education project, using dashboards and analytics to spot students at risk and improve course design.
+
+### 🎾 [Tennis Case Study: Cracking the Code of Champions](Tennis_Case_Study/README.md)
+Analyzed serve metrics from 22 years of Grand Slam data to find out what separates top 10 players from the rest. 
 
 ### 🌍 [Global Education Analysis: Secondary School Age by Region - Case Study](./Global_Education_Analysis_Case_Study/README.md)
 Analyzed global data to find how many people were of secondary school age per region in 2015, using SQL joins and aggregation on World Bank datasets.
