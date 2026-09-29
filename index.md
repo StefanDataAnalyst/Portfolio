@@ -1,6 +1,12 @@
 # 🎓 Stefan’s Data Analytics Portfolio
 
-Welcome! I'm Stefan, a data analyst. This is a collection of case studies I built as part of my transition into from eduction into tech. 
+Welcome! I'm Stefan. I'm an Information Analyst working at the intersection of data, reporting, processes and decision-making.
+
+With ten years of experience across education, government and the non-profit sector, I analyze complex processes and datasets, uncover where complexity comes from, and help design simpler, more useful solutions.
+
+I work both in the data and in the conversations around it, bridging the gap between subject-matter experts, management and IT.
+
+Below you can find a collection of my case studies to see how I work with data. 
 
 ## 📂 Projects
 
